@@ -1,0 +1,1 @@
+Blockchain implementation for learning|testing purposes by Alex Zozovsky
